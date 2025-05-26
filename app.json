@@ -1,16 +1,16 @@
 {
     "expo": {
-        "name": "nativetemplate",
-        "slug": "nativetemplate",
+        "name": "rnauth",
+        "slug": "rnauth",
         "version": "1.0.0",
         "orientation": "portrait",
         "icon": "./assets/images/icon.png",
-        "scheme": "nativetemplate",
+        "scheme": "rnauth",
         "userInterfaceStyle": "automatic",
         "newArchEnabled": true,
         "ios": {
             "supportsTablet": true,
-            "bundleIdentifier": "com.nativetemplate"
+            "bundleIdentifier": "com.rnauth"
         },
         "android": {
             "adaptiveIcon": {
@@ -18,7 +18,7 @@
                 "backgroundColor": "#ffffff"
             },
             "edgeToEdgeEnabled": true,
-            "package": "com.nativetemplate"
+            "package": "com.rnauth"
         },
         "web": {
             "bundler": "metro",
